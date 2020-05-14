@@ -15,6 +15,7 @@
 		FB95C65924644D85002C7E83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB95C65724644D85002C7E83 /* LaunchScreen.storyboard */; };
 		FB95C66424644D85002C7E83 /* weatherAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB95C66324644D85002C7E83 /* weatherAppTests.swift */; };
 		FB95C66F24644D85002C7E83 /* weatherAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB95C66E24644D85002C7E83 /* weatherAppUITests.swift */; };
+		FB95C67D246B220F002C7E83 /* unnamed.png in Resources */ = {isa = PBXBuildFile; fileRef = FB95C67C246B220F002C7E83 /* unnamed.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FB95C66A24644D85002C7E83 /* weatherAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weatherAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB95C66E24644D85002C7E83 /* weatherAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherAppUITests.swift; sourceTree = "<group>"; };
 		FB95C67024644D85002C7E83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB95C67C246B220F002C7E83 /* unnamed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unnamed.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				FB95C65024644D83002C7E83 /* ViewController.swift */,
 				FB95C65224644D83002C7E83 /* Main.storyboard */,
 				FB95C65524644D85002C7E83 /* Assets.xcassets */,
+				FB95C67C246B220F002C7E83 /* unnamed.png */,
 				FB95C65724644D85002C7E83 /* LaunchScreen.storyboard */,
 				FB95C65A24644D85002C7E83 /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 			files = (
 				FB95C65924644D85002C7E83 /* LaunchScreen.storyboard in Resources */,
 				FB95C65624644D85002C7E83 /* Assets.xcassets in Resources */,
+				FB95C67D246B220F002C7E83 /* unnamed.png in Resources */,
 				FB95C65424644D83002C7E83 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
